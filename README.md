@@ -1,8 +1,5 @@
-# POWER BI Dashboards
+# POWER BI Dashboards:
 
-Welcome to my collection of Power BI dashboards! This repository showcases various projects demonstrating my skills in data visualization and analysis using Power BI.
-
-## Contents:
 
 1. [Adventure Works Sales Dashboard](https://github.com/Anatoly-Kozlov/Power-BI/tree/bce29256e4d47010cf14af030910e003c4283ad6/AdventureWorks%20Sales) (подробнее по ссылке)
 ![](https://github.com/Anatoly-Kozlov/Power-BI/blob/ca2ebe62921b0046a613fb91f10cbfc3b4aef303/AdventureWorks%20Sales/Total%20sales%20page.png)
